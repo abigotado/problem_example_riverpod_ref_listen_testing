@@ -1,0 +1,10 @@
+{
+  "errors": [
+    {
+      "type": "unknown",
+      "title": "param is missing or the value is empty: direction",
+      "detail": "param is missing or the value is empty: direction",
+      "field": null
+    }
+  ]
+}

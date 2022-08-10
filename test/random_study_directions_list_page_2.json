@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": 227,
+      "title": "doloremque2",
+      "order": 227,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b0916d94e5f36734a67d282a4dda10c88ce21b5/dummy.svg",
+      "description": "Impedit ut ut. Ut labore officiis. Corporis est neque."
+    },
+    {
+      "id": 228,
+      "title": "est2",
+      "order": 228,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 229,
+      "title": "eveniet2",
+      "order": 229,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc05b9db52fa0238adb9d1ffbac72a4f4867d8be/dummy.svg",
+      "description": "Culpa libero voluptatem. Maiores alias quas. Non qui ut."
+    },
+    {
+      "id": 230,
+      "title": "alias2",
+      "order": 230,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16418277af8b31fe335a574db5bffdcf707e7db9/dummy.svg",
+      "description": "Et alias eius. Vero voluptates voluptatibus. Voluptatibus omnis dolorem."
+    },
+    {
+      "id": 231,
+      "title": "cupiditate2",
+      "order": 231,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d203177447942972097e722895c212c788fce80/dummy.svg",
+      "description": "Voluptas omnis est. Distinctio neque dolorem. Est sit similique."
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "count": 15,
+      "page": 2,
+      "items": 10,
+      "pages": 2
+    }
+  }
+}

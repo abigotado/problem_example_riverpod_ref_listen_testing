@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": 27,
+      "title": "doloremque",
+      "order": 27,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "childrenCount": 10,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b0916d94e5f36734a67d282a4dda10c88ce21b5/dummy.svg",
+      "description": "Impedit ut ut. Ut labore officiis. Corporis est neque."
+    },
+    {
+      "id": 28,
+      "title": "est",
+      "order": 28,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 29,
+      "title": "est29",
+      "order": 29,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 30,
+      "title": "est30",
+      "order": 30,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 31,
+      "title": "est31",
+      "order": 31,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 32,
+      "title": "est32",
+      "order": 32,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 33,
+      "title": "est33",
+      "order": 33,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba5ba21ec9bf25e247743eaafd59807e99019126/dummy.svg",
+      "description": "Nulla fugiat doloribus. Explicabo nihil aut. Minima autem officiis."
+    },
+    {
+      "id": 34,
+      "title": "eveniet",
+      "order": 34,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc05b9db52fa0238adb9d1ffbac72a4f4867d8be/dummy.svg",
+      "description": "Culpa libero voluptatem. Maiores alias quas. Non qui ut."
+    },
+    {
+      "id": 35,
+      "title": "alias",
+      "order": 35,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBVdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16418277af8b31fe335a574db5bffdcf707e7db9/dummy.svg",
+      "description": "Et alias eius. Vero voluptates voluptatibus. Voluptatibus omnis dolorem."
+    },
+    {
+      "id": 36,
+      "title": "cupiditate",
+      "order": 36,
+      "createdAt": "2022-07-08 07:42:24 UTC",
+      "updatedAt": "2022-07-08 07:42:24 UTC",
+      "materialsCount": 0,
+      "articlesCount": 0,
+      "learningMaterialsCount": 0,
+      "resourcesCount": 0,
+      "webinarsCount": 0,
+      "cover": "/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d203177447942972097e722895c212c788fce80/dummy.svg",
+      "description": "Voluptas omnis est. Distinctio neque dolorem. Est sit similique."
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "count": 15,
+      "page": 1,
+      "items": 10,
+      "pages": 2
+    }
+  }
+}
